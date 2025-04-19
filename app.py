@@ -27,7 +27,7 @@ app = FastAPI()
 # Replace this with your actual GitHub Pages URL in production
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://yourusername.github.io"],  # e.g., https://maulikdave.github.io
+    allow_origins=["https://maulikdave27.github.io/weed_removal_frontend_host/"],  # e.g., https://maulikdave.github.io
     allow_methods=["*"],
     allow_headers=["*"],
 )
