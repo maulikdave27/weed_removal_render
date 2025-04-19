@@ -6,3 +6,4 @@ opencv-python-headless
 tensorflow
 pandas
 numpy
+python-multipart
